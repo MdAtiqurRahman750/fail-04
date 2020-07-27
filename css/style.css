@@ -1,0 +1,70 @@
+body
+
+{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.head,.foot,.box,.box1{
+	background-color: gray;
+	min-height: 30px;
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+
+}
+.logo{
+	width: 30%;
+	float: left;
+	
+	text-align: center;
+
+}
+.navi
+{
+	width: 60%;
+	float: right;
+
+	text-align: center;
+	
+
+}
+.wrap{
+	display: flex;
+	justify-content:space-between;
+	
+}
+.box{
+background-color: gray;
+min-height: 50px;
+width: 70%;
+margin-bottom:10px;
+padding: 150px;
+
+	text-align: center;
+
+}
+.wrap2{
+	display: flex;
+	 
+	
+	justify-content :space-between;
+	
+	
+
+
+}
+.box1{
+background-color: gray;
+min-height: 150px;
+width: 40%;
+
+padding: 20px;
+font-size: 20px;
+	text-align: center;
+
+}
+
+
